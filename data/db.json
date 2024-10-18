@@ -1,0 +1,17 @@
+{
+    "blogs": [
+        {
+            "title" : "My First Blog",
+            "body" : "This is my first blog post. I'm excited to share my thoughts and experiences with you all. Stay tuned for more updates! I've been thinking about starting a blog for a while now, and I'm glad I finally took the plunge. I'm not sure what direction this blog will take, but I'm hoping to share my passions, interests, and hobbies with all of you. I'm a bit nervous about putting myself out there, but I'm looking forward to connecting with like-minded individuals and learning from your experiences as well. Thanks for stopping by, and I hope you'll come back soon!",
+            "author" : "Michael",
+            "id" : 1
+        },
+
+        {
+            "title" : "Welcome Party",
+            "body" : "We're hosting a welcome party for new members, and we can't wait to meet you all! The party will be held at our community center on Saturday, March 12th, at 2 PM. There will be food, drinks, and games to help break the ice and get to know each other. We're really excited to meet our new neighbors and make some new friends. The party is open to everyone, so feel free to bring a friend or family member along. We'll have a potluck, so please bring a dish to share with the group. We're looking forward to seeing you there! If you have any questions or need more information, please don't hesitate to reach out to us.",
+            "author" : "Janet",
+            "id" : 2
+        }
+    ]
+}
